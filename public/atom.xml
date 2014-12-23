@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Just a blog]]></title>
+  <link href="http://bavadim.me/atom.xml" rel="self"/>
+  <link href="http://bavadim.me/"/>
+  <updated>2014-12-23T04:19:07+03:00</updated>
+  <id>http://bavadim.me/</id>
+  <author>
+    <name><![CDATA[Vadim Polulyakh]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+</feed>
