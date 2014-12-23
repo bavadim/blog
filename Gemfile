@@ -1,5 +1,5 @@
 source "https://rubygems.org"
-ruby "ruby-2.0.0"
+ruby "2.0.0"
 
 gem 'rake', '~> 10.0'
 gem 'jekyll', '~> 2.0'
